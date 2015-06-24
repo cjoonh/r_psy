@@ -19,10 +19,13 @@ June 24, 2015
 
 ▪ 확률밀도함수(a)와 아닌 경우(b)의 예<br>
 <img src="https://i.imgur.com/WkKhn6t.jpg">
+
 (a)의 경우에는 [-1,1]의 구간에 대해 f(x) = 0.5 > 0 인 직선이 표현되어 있다. 
 <img src="https://i.imgur.com/Vt60HrZ.jpg">
+
 나머지 구간에 대해서는 f(x)=0 이므로 
 <img src="https://i.imgur.com/NQGTkmY.jpg">
+
 즉 (a)에 표현된 -1≤x≤1에 대한 f(x)=0.5의 직선은 확률밀도함수이다.
 
 (b)의 경우에는 [-1,1]의 구간에 대해 f(x) = -x 인 직선이 표현되어 있다. 
