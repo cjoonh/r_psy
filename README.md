@@ -1,9 +1,6 @@
-# Chap4
-cjoonh  
-June 24, 2015  
-
 #R과 함께 하는 통계학의 이해
-
+cjoonh  
+June 24, 2015 
 
 ##Chap_4. 연속확률변수 및 분포
 
