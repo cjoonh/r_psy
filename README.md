@@ -17,26 +17,19 @@ June 24, 2015
 ▪ 확률밀도함수(a)와 아닌 경우(b)의 예<br>
 <img src="https://i.imgur.com/WkKhn6t.jpg">
 
-
 (a)의 경우에는 [-1,1]의 구간에 대해 f(x) = 0.5 > 0 인 직선이 표현되어 있다.<br>
 <img src="https://i.imgur.com/Vt60HrZ.jpg">
-
-
 나머지 구간에 대해서는 f(x)=0 이므로<br>
 <img src="https://i.imgur.com/NQGTkmY.jpg">
-
-즉 (a)에 표현된 -1≤x≤1에 대한 f(x)=0.5의 직선은 확률밀도함수이다.
+즉 (a)에 표현된 -1≤x≤1에 대한 f(x)=0.5의 직선은 확률밀도함수이다.<br>
 
 (b)의 경우에는 [-1,1]의 구간에 대해 f(x) = -x 인 직선이 표현되어 있다. 
-
 이 경우 해당 구간에 대해서는<br> 
-<img src="https://i.imgur.com/oyScN1W.jpg">
-
+<img src="https://i.imgur.com/oyScN1W.jpg"><br> 
 나머지 구간에 대해서는 f(x)=0 이므로<br>
-<img src="https://i.imgur.com/UhqsU8P.jpg">
+<img src="https://i.imgur.com/UhqsU8P.jpg"><br> 
 조건도 만족하게 된다.
-그러나 0≤x≤1 의 구간에 대해서 f(x)≤0 이므로 -1≤x≤1에 대한 f(x)= -x의 직선은 
-확률밀도함수가 아니다. 
+그러나 0≤x≤1 의 구간에 대해서 f(x)≤0 이므로 -1≤x≤1에 대한 f(x)= -x의 직선은 확률밀도함수가 아니다. 
 
 연속확률변수 X가 특정한 값 x 를 갖게 될 확률은 0 이므로,
 P(a≤X≤b)=P(a<X≤b)=P(a≤X<b)=P(a<X<b)
